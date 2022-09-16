@@ -62,6 +62,7 @@ Shapes Rubric
 0.5 = good use of white space; clean programming style
 0.5 = all spelling is correct
 Extra credit 0.5 for each challenge completed correctly
+[Copy of Shapes Instructions.pdf](https://github.com/ItsAhmet/Shapes/files/9589339/Copy.of.Shapes.Instructions.pdf)
 
 
 
