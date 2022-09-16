@@ -19,24 +19,23 @@ Confirm your calculations with a reputable online resource.
 
 
 class Square:
-
-  Instance variable: sidelength
-  method: area = side(squared)
-  Method: perimeter= side*4
+ > Instance variable: sidelength
+  >method: area = side(squared)
+>  Method: perimeter= side*4
   
 class Circle:
-  Instance variable: radius
-  method: area = PI * radius^2
-  method: diameter= radius*2
+>  Instance variable: radius
+ > method: area = PI * radius^2
+  >method: diameter= radius*2
 class Triangle:
-  Instance variables: base, height
-  method: area = ½ * base * height
+  >Instance variables: base, height
+  >method: area = ½ * base * height
  class Trapezoid:
-  Instance variables: baseA, baseB, height
-  method: area = ( ½ * (baseA + baseB)) * height  
+  >Instance variables: baseA, baseB, height
+  >method: area = ( ½ * (baseA + baseB)) * height  
 class Shape:
-  Uses scanner twice and dialog box twice to gather information for each type of shape
-  All displays should appear in this class
+ > Uses scanner twice and dialog box twice to gather information for each type of shape
+ > All displays should appear in this class
 
 
 Shapes Challenge
