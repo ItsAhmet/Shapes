@@ -19,9 +19,11 @@ Confirm your calculations with a reputable online resource.
 
 
 class Square:
+
   Instance variable: sidelength
   method: area = side(squared)
   Method: perimeter= side*4
+  
 class Circle:
   Instance variable: radius
   method: area = PI * radius^2
